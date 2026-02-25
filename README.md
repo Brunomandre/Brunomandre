@@ -22,7 +22,7 @@ I thrive when faced with complex technical puzzles, especially within low-level 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C, C++ (Embedded), VHDL/Verilog, Assembly, Python, MATLAB |
-| **Embedded Systems** | STM32 (ARM Cortex-M), ESP32, Arduino, FreeRTOS |
+| **Embedded Systems** | Raspberry pi, STM32 (ARM Cortex-M), ESP32, Arduino, FreeRTOS |
 | **Hardware & Protocols** | UART, I2C, SPI, PCB Design (KiCad) |
 | **Tools & DevOps** | Linux (Buildroot), Git, Xilinx Vivado, OpenCV |
 
