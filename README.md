@@ -1,4 +1,4 @@
-# printf("Hello world, I'm Bruno André 👋");
+# I'm Bruno André
 
 ### MSc in Industrial Electronics and Computers Engineering
 ### University of Minho (UMinho)
